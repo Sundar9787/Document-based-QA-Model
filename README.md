@@ -20,8 +20,9 @@ The system combines **semantic search** with **generative AI models** to produce
 - **FAISS** (for vector storage & retrieval)
 - **Pandas, NumPy**
   
+---
 
-```
+---
 
 ## ⚙️ How It Works
 1. **Document Ingestion** – Load and preprocess documents (PDF, TXT, DOCX, etc.).
@@ -53,5 +54,4 @@ pip install -r requirements.txt
 
 # Run application
 streamlit run app.py
-```
 ---
